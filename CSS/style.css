@@ -1,3 +1,7 @@
+body {
+    background-image: linear-gradient(to right, #00b4db, #0083b0)
+}
+
 .navbar {
     display: flex;
     justify-content: end;
@@ -10,7 +14,7 @@
     background-image: url(../images/profile.jpeg);
     background-size: contain;
     background-repeat: no-repeat;
-    height: calc(100vh - 25px);
+    /* height: calc(100vh - 25px); */
     display: flex;
     align-items: center;
     justify-content: center;
