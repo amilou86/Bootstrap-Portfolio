@@ -1,37 +1,47 @@
 # Bootstrap-Portfolio
 
- <div class="bio" id="bio">
-        <div class="card">
+# User Story
+AS A student developer
+I WANT a webpage to showcase my new skills using Bootstrap
+SO THAT potential employers and clients can see what I can do and want to hire me
 
-            <div class="card-body">
-                <h5 class="card-title">About Me</h5>
+## Accepted Criteria
+A website that includes the following bootstrap components:
 
-                <div class="cardtext">
-                    <p>Based in Warrington, Cheshire, I am currently a web developer student. Upon graduating from the
-                        bootcamp I hope to have experinece in many coding languages, such as HMTL, CSS, JavaScript, as well as
-                        React, Node and API's.
-                        I am enthusiastic about staying up to date with the latest web development trends and
-                        technologies.</p>
-                    <P>What sets me
-                        apart is my unique blend of analytical skills and creativity, honed through my work experience
-                        in
-                        investigations, particularly in handling complex complaints. This has instilled in me a keen
-                        attention to
-                        detail, problem-solving abilities, and a knack for efficient project management—traits that I
-                        believe are
-                        transferable and invaluable in web development.</P>
+    - A Navigation bar
 
-                    <p>Beyond my technical skills, I bring a creative touch to my work, evident in my hobby as a nail
-                        technician and
-                        my
-                        passion for various creative pursuits. This creativity extends to my approach to web
-                        development, where I
-                        strive
-                        to deliver not only functional but also visually appealing and user-friendly solutions.</p>
+      - Including links that are applicable to my portfolio.
+  
+        - Links that navigate to the appropriate sections 
 
-                    <p>My dedication to staying informed on current cultural issues and equal rights reflects my
-                        commitment
-                        to creating inclusive and accessible digital experiences.
-                </div>
-            </div>
-        </div>
+    - A hero section
+
+        - A jumbotron featuring my picture, name, and  other information 
+
+    - A work section
+
+      - A section displaying my work in grid. 
+
+      - Using bootstrap cards for each project.
+
+        - A description giving a brief overview of my work.
+
+      - Each project will eventually link to my class project work!
+
+    - A skills section
+
+      - List out the skills I expect to learn from the bootcamp.
+
+    - An about / contact section.
+
+      - An "About Me" section in the same row.
+    
+    - A footer section.
+
+      - All hyperlinks should have a hover effect.
+
+5. My Bootstrap solution should minimize use of media queries.
+
+6. My new Bootstrap-powered portfolio is deployed to GitHub Pages.
+
+<img src="images/webpage.png" class="card-img-top" alt="webpage screenshot">

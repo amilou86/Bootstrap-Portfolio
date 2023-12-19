@@ -5,16 +5,17 @@ body {
 .navbar {
     display: flex;
     justify-content: end;
-
 }
 
-
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
 
 .jumbotron {
     background-image: url(../images/profile.jpeg);
     background-size: contain;
     background-repeat: no-repeat;
-    /* height: calc(100vh - 25px); */
     display: flex;
     align-items: center;
     justify-content: center;
